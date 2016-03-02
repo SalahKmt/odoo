@@ -87,7 +87,7 @@ msgstr "Actif"
 #. module: payment
 #: model:ir.model.fields,field_description:payment.field_payment_acquirer_fees_active
 msgid "Add Extra Fees"
-msgstr ""
+msgstr "Ajouter des honoraires supplémentaires"
 
 #. module: payment
 #: model:ir.model.fields,field_description:payment.field_payment_transaction_partner_address
@@ -155,7 +155,7 @@ msgstr ""
 #. module: payment
 #: model:ir.model.fields,field_description:payment.field_res_partner_payment_method_count
 msgid "Count Payment Method"
-msgstr ""
+msgstr "Méthode de paiement de compte"
 
 #. module: payment
 #: model:ir.model.fields,field_description:payment.field_payment_transaction_partner_country_id
@@ -281,7 +281,7 @@ msgstr ""
 #. module: payment
 #: selection:payment.transaction,type:0
 msgid "Form"
-msgstr ""
+msgstr "De"
 
 #. module: payment
 #: model:ir.model.fields,field_description:payment.field_payment_acquirer_view_template_id
@@ -301,7 +301,7 @@ msgstr "Grouper par"
 #. module: payment
 #: model:ir.model.fields,field_description:payment.field_payment_acquirer_pre_msg
 msgid "Help Message"
-msgstr ""
+msgstr "Message d'aide"
 
 #. module: payment
 #: model:ir.model.fields,field_description:payment.field_payment_acquirer_id
@@ -318,7 +318,7 @@ msgstr "Image"
 #. module: payment
 #: model:ir.model.fields,help:payment.field_payment_transaction_reference
 msgid "Internal reference of the TX"
-msgstr ""
+msgstr "Référence interne du TX"
 
 #. module: payment
 #: model:ir.model.fields,field_description:payment.field_payment_transaction_partner_lang
